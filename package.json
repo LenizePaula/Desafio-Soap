@@ -1,0 +1,18 @@
+{
+  "name": "soap",
+  "version": "1.0.0",
+  "description": "Aplicação com node e soap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\leniz\\OneDrive\\Análise E Desenvolvimento De Sistemas\\Back-End II\\SOAP"
+  },
+  "author": "Lenize Paula Ferreira Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^1.0.3"
+  }
+}
